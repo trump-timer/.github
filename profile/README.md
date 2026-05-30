@@ -1,21 +1,27 @@
+<p align="center">
+  <a href="https://trumptimer.us">
+    <img src="trump-timer-icon.png" alt="Trump Timer logo" width="112" />
+  </a>
+</p>
+
+
 # Trump Timer
 
-Trump Timer hosts public reference pages, countdowns, trackers, and explainers for Donald Trump's 2025-2029 presidential term.
+Trump Timer is a public reference site for Donald Trump's 2025-2029 presidential term, combining live countdowns, trackers, calculators, timelines, and topical explainers.
 
-![Trump Timer icon](trump-timer-icon.png)
+## Official Resources
 
-## Official Links
-
-- Website: https://trumptimer.us
-- Public feedback: https://github.com/trump-timer/trump-timer/issues
-- Roadmap: https://github.com/trump-timer/trump-timer/blob/main/ROADMAP.md
+- Website: [trumptimer.us](https://trumptimer.us)
+- Public repository: [trump-timer/trump-timer](https://github.com/trump-timer/trump-timer)
+- Feedback and issues: [github.com/trump-timer/trump-timer/issues](https://github.com/trump-timer/trump-timer/issues)
+- Roadmap: [ROADMAP.md](https://github.com/trump-timer/trump-timer/blob/main/ROADMAP.md)
+- Support: contact@gencoloring.ai
 
 ## Product Areas
 
-- Presidency countdowns
-- Approval and public-interest trackers
-- Policy, quote, speech, and inauguration references
-- Public search explainers
-- Interactive civic-interest pages
+- View a live timer for Donald Trump's presidential term that began January 20, 2025.
+- Check the countdown to the January 20, 2029 term-end date.
+- Review source-labeled approval rating context and methodology caveats.
+- Navigate explainers for policies, speeches, quotes, biography, age, inauguration, and topical searches.
 
-Trump Timer is an independent reference website and is not affiliated with Donald J. Trump, the Trump Organization, any political campaign, or the United States government.
+This organization profile points to the official public GitHub resources for Trump Timer. Production source code and private operational configuration are not published here.
