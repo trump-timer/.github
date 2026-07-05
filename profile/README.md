@@ -11,11 +11,11 @@ Trump Timer is a public reference site for Donald Trump's 2025-2029 presidential
 
 ## Official Resources
 
-- Website: [trumptimer.us](https://trumptimer.us)
+- Website: [Trump presidential term countdown and tracker](https://trumptimer.us)
 - Public repository: [trump-timer/trump-timer](https://github.com/trump-timer/trump-timer)
-- Feedback and issues: [github.com/trump-timer/trump-timer/issues](https://github.com/trump-timer/trump-timer/issues)
+- Feedback and issues: [Trump Timer public feedback on GitHub](https://github.com/trump-timer/trump-timer/issues)
 - Roadmap: [ROADMAP.md](https://github.com/trump-timer/trump-timer/blob/main/ROADMAP.md)
-- Support: contact@gencoloring.ai
+- Support: Nano Products shared official support mailbox at contact@gencoloring.ai
 
 ## Product Areas
 
